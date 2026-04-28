@@ -1,5 +1,4 @@
-# Content for the README.md file
-readme_content = """# 🎙️ AI-Assisted Speech-to-Text (STT) Annotation Tool
+🎙️ AI-Assisted Speech-to-Text (STT) Annotation Tool
 
 A lightweight, professional-grade audio annotation platform built with **Python**, **Streamlit**, and **OpenAI's Whisper (via Faster-Whisper)**. This tool allows users to upload audio, generate automatic transcriptions with timestamps, and manually refine them through an interactive UI.
 
